@@ -480,7 +480,7 @@ bool events::in::variantlist(gameupdatepacket_t* packet) {
         return true;
     } break;
     case fnv32("OnConsoleMessage"): {
-        varlist[1] = "`^[joakimmer1k0#0230]`` " + varlist[1].get_string();
+        varlist[1] = "`^[zenosdewa]`` " + varlist[1].get_string();
         g_server->send(true, varlist);
         return true;
     } break;
