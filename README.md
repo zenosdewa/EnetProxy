@@ -20,8 +20,6 @@
 * /ft (Enable/Disable Fast Trash)
 * /pullall (Pull All Player In Same World)
 * /banall (Ban All Player In Same World)
-* /tradeall (Trade All Player In Same World)
-
-# By Joakim(https://github.com/JoakimTheCoder)
+* /tradeall (Trade All Player In Same 
 
 
